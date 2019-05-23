@@ -1,0 +1,15 @@
+.venv/
+*.egg-info/
+build/
+dist/
+*.png
+.eggs/
+.cache/
+test_results.xml
+.ipython/**/db/
+.ipython/**/*.ipynb_checkpoints/
+.ipython/**/history.sqlite
+notebooks/*
+!notebooks/*.ipynb
+**/.pytest_cache
+**/*.pyc
